@@ -13,7 +13,7 @@ Desafio sobre conceitos do ReactJS aplicado no bootcamp Gostack
 
 </p>
 
-<img alt="printApp" src="" />
+<img alt="printApp" src="https://github.com/DaniloSouza19/desafio-conceitos-reactjs/blob/master/github/print_APP.png" />
 <br />
 <ul> 
   <li>yarn (baixe as dependências do projeto)</li>
